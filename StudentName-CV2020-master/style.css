@@ -1,0 +1,41 @@
+div #ref {
+  background-color: Dodgerblue;
+}
+
+div #qualn {
+  background-color: Tomato;
+}
+
+div #skill {
+  background-color:MediumSeaGreen;
+}
+
+div #summary {
+  background-color: Yellow;
+}
+
+div #profxp {
+  background-color: SlateBlue;
+}
+
+div #btn {
+  padding-top: 10px;
+}
+
+div .main {
+  margin-left: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right: 10px;
+  padding-bottom: 20px;
+  float: inline-end;
+  background-color: silver;
+  box-shadow: 10px 10px 5px cobalt;
+}
+
+button {
+  align-self: center;
+  height: 36px;
+  width: 166px;
+  box-shadow: 10px 10px 5px grey;
+}
