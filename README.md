@@ -1,3 +1,0 @@
-# student-cv
-student cv
- 
